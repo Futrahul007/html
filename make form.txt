@@ -1,0 +1,18 @@
+//* To make Form *//
+<html>
+<body>
+<form>
+   Username:<input type="text"><br>
+   Username:<input type="text"><br>
+   Gender:<input type="radio">name="r1" checked>Male
+          <input type="radio">name="r1" checked>Female<br>
+
+   Language:<input type="checkbox">Hindi
+            <input type="checkbox">English
+            <input type="checkbox">Bhojpuri <br>
+   Address:<textarea></textarea> <br>
+     <input type="Submit"> value="Register">
+     <input type="Reset">
+</form>
+</body>
+</html>
