@@ -1,0 +1,7 @@
+//* To display Image *//
+<html>
+<body>
+<a href = "baby.jpg"><img src="baby.jpg" width =300 height=300></a>
+<a href = "medicine.jpg"><img src="medicine.jpg" width =300 height=300></a>
+</body>
+</html>
