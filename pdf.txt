@@ -1,0 +1,7 @@
+//* To insert pdf *//
+<html>
+<body>
+<a href="pdf.html"> GO TO pdf page</a> <br>
+<a href="java.pdf"> OPEN PDF FILE </a>
+</body>
+</html>
