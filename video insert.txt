@@ -1,0 +1,8 @@
+//* To insert video *//
+<html>
+<body>
+<video width ="300" height="300""controls"
+autoplay ="autoplay">
+<source src = "my.mp4" type="video/mp4"
+</body>
+</html>
