@@ -1,0 +1,12 @@
+///* title, head, meter, mark, delete and INS*///
+<html>
+<head>
+<title>RAHUL RAJ</title>
+</head>
+<body>
+  status<meter low = "45" min="10" max="100"value="40">
+<meter>
+color is<del>red</del><ins>blue</ins>
+
+</body>
+</html>
