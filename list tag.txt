@@ -1,0 +1,28 @@
+///* various list tag *////
+<html>
+<body>
+Department
+
+<ul type = "disc">
+<li> Rahul </li>
+<li> sonu </li>
+<li> chotu </li>
+
+State
+<ol type = "A"or"a"or"I">
+<li> BIHAR </li>
+<li> JHARKHAND</li>
+<li> HARYANA </li>
+
+
+<!--> NESTING OF LIST-->
+<ul>
+   <li>JAVA</li>
+   <ul>
+       <li> core java </li>
+       <li> Android java</li>
+   </ul>
+       <li> PHP </li>
+       <li> BOOTSTRAP</li>
+</html>
+</body>
