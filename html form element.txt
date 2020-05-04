@@ -1,0 +1,13 @@
+<html>
+<body>
+<form>
+select color <input type="color"<br>
+select date <input type="date"<br>
+select number <inputtype="number"min=1,max100
+step=5<br>
+select email address <input type="email"<br>
+select url <input type="url">
+<input type="submit">
+</form>
+</html>
+</body>
