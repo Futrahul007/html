@@ -1,0 +1,22 @@
+<html>
+<body>
+<table>
+<tr>
+<td>
+<figure>
+<img src="baby.jpg" width="300" height="300">
+<figcaption>
+Figure 1 cute baby
+</figcaption>
+</figure>
+</td>
+<figure>
+<img src="medicine.jpg" width="300" height="300">
+<figcaption>
+Figure 2  medicine
+</figcaption>
+</figure>
+</td>
+</table>
+</body>
+</html>
