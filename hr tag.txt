@@ -1,0 +1,17 @@
+<html>
+<body>
+<center><font size=30 color"red">student management<font>
+<hr noshade>
+<center>
+<a href="audio insert.html">audio insert</a>
+<a href="video insert.html">video insert</a>
+<a href="display image.html">display image</a>
+<a href="pdf.html">pdf</a>
+</href>
+<hr>
+<br><br><br><br><br><br><br><br>
+<hr color="blue">
+<marquee> HTML in hindi...!!!</marquee>
+<hr color="blue">
+</body>
+</html>
