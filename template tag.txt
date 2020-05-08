@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+This is HTML
+HTML is used to make webpages
+HTML run in web browser
+</pre>
+template tag start...
+<template>
+HELLO WORLD
+<img src ="baby.jpg">
+<input type ="text">
+</template>
+template tag finish
+</body>
+</html>
