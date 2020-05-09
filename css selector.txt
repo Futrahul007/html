@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+p{
+  background-color:pink;
+  color:red;
+ }
+body{
+     background-color:green;
+    }
+#heading1{
+          color:lightyellow;
+         }
+#para1{ 
+         text-align:center;
+         color:red;
+         background-color:yellow;
+         }
+</style>
+</head>
+<body>
+<p>hello</p>
+<h1 id="heading1"HTML Lession</h1>
+<p id="para1"INDIA</p>
+</body>
+</html>
