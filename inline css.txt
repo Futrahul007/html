@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+p{
+  background-color:pink;
+  }
+</style>
+</head>
+<body>
+Inline CSS <br>
+<p>hello</p>
+<p style="background-color:green;">HTML</p>
+<p style="background-color:yellow;">Java Programming</p>
+<p>INDIA</p>
+<p>BIHAR</p>
+</body>
+</html>
