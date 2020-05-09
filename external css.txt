@@ -1,0 +1,10 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>EXTERNAL CSS</h1>
+<p>hello</p>
+<p>world</p>
+</body>
+</html>
