@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+p,h1,h2{
+    background-color:yellow;
+    color:red;
+    text-align:center;     
+}
+</style>
+<body>
+<p>HTML PROGRAM</P>
+<h1>INDIA</h1>
+<h2>BIHAR</h2>
+</body>
+</html>
