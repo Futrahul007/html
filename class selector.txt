@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.cen{
+    background-color:red;
+    color:pink;
+    text-allign:center;     
+}
+.mycolor{
+        color:green;
+}
+</style>
+</head>
+<body>
+<p class="cen mycolor">HELLO RAHUL...!!!</p>
+<p class="mycolor">INDIA</p>
+ 
+</body>
+<html>
