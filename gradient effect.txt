@@ -1,0 +1,12 @@
+<html>
+<head>
+<style>
+body{
+background-image:repeating-linear-gradient<to right,red,green 10%,yellow 20%)
+}
+</style>
+</head>
+<body>
+
+</body>
+</html>
