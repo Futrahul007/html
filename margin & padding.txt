@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+div{
+    width:400px;
+    height:400px;
+    border:1px solid red;
+    background-color:light blue;
+    margin:50 px 150px;
+}
+input{
+    margin:3px;
+    padding:10px;
+    border:1px solid red;
+    border-radius:10px;
+    background-color:light blue;
+}
+</head>
+<body>
+margin:space around component<br>
+padding:space between content and border of component<br>
+<div>
+username<input type="text"><br>
+password<input type="password"<br>
+<input type="submit">
+</div>
+</body>
+</html>
