@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+p{
+  color:red;
+  text-transform:capitalize;
+  text-indent:100px;
+  text-decoration:none;
+  letter-spacing:5px;
+  text-shadowing:1px 1px black;
+  text-direction:rt1;
+}
+</style>
+</body>
+</html>
