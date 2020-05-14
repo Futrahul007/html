@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+img{
+    width:100px;
+    height:100px
+    opacity:0.6;
+}
+img:hover{
+    width:103px;
+    height:103px
+    opacity:1;
+}
+</style>
+</head>
+<body>
+<img src="bihar.jpg">
+<img src="bihar.jpg">
+<img src="bihar.jpg">
+<img src="bihar.jpg">
+<img src="bihar.jpg">
+</body>
+</html>
