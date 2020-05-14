@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+a/a:link{
+text-decoration:none;
+color:red;
+background-color:yellow;
+}
+a:hover{
+ color:yellow;
+ background-color:yellow;
+}
+a:visited{
+}
+a:active{
+}
+p{
+text-align:center;
+border:2px solid red;
+background-color:yellow;
+border-radius:3px;
+}
+</style>
+</head>
+<body>
+<p>
+<a href="home.html">Home</a>
+<a href="about.html">About us</a>
+<a href="contact.html">Contact us</a>
