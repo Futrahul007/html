@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+h1{
+   color:red;
+   text-shadow:2px 2px 5px blue,2px 2px 5px black;
+   }
+div{
+    width:200px;
+    height:200px;
+    background-color:blue;
+    box-shadow:2px 2px 5px red;
+    }
+</style>
+</head>
+<body>
+text-shadow<br>
+box-shadow</br>
+<h1>Hello World</h1>
+<div>
+HELLO
+</div>
+</body>
+</html>
+   
