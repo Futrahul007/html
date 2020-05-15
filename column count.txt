@@ -1,0 +1,11 @@
+<html>
+<head>
+<style>
+mydiv{
+     column-count:3;
+     column-gap:50px;
+     column-count:10px double green;
+     }
+</style>
+</head>
+<body>
