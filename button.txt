@@ -1,0 +1,24 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<button type="button" class="btn-primary active">Primary</button>
+<button type="button"class="btn-info disabled">Info</button>
+<button type="button" class="btn-warning disabled">Warning</button>
+<button type="button" class="btn btn-danger disabled">Danger</button>
+<button type="button" class="btn btn-link ">Link</button>
+<button type="button"class="btn btn-success">Success</button>
+<button type="button" class="btn btn-default">Default</button><br>
+<button type="button"class="btn btn-success btn-lg">Success</button>
+<button type="button"class="btn btn-success btn-md">Success</button>
+<button type="button"class="btn btn-success btn-sm">Success</button><br>
+<br>
+<div class="btn-group-vertical">
+<button type="button"class="btn btn-link">Home</button>
+<button type="button"class="btn btn-link">contact</button>
+<button type="button"class="btn btn-link">Product</button>
+<button type="button"class="btn btn-link">About</button>
+<div><br>
+<input type="submit"value="Login"class="btn-success">
