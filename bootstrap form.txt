@@ -1,0 +1,23 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="container"
+UserName<input type="text"class="form-control>"<br>
+Password<input type="password"class="form-control>"<br>
+<input type="submit"value="Login"class="btn btn-warning">
+<input type="submit"value="Clear"class="btn-warning"><br>
+Address
+<textarea rows="5" class="form-control"></textarea><br>
+<select class="form-control">
+<option>c</option>
+<option>c++</option>
+<option>Java</option>
+<option>PHP</option>
+<option>Android</option>
+</select>
+</div>
+</body>
+</html>
