@@ -1,0 +1,28 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+<p class="text-muted">This is muted text color</p>
+<p class="text-primary">This is primary text color</p>
+<p class="text-success">This is success text color</p>
+<p class="text-info">This is info text color</p>
+<p class="text-warning">This is warning text color</p>
+<p class="text-danger">This is danger text color</p>
+<p class="text-secondary">This is secondary text color</p>
+<p class="text-dark">This is dark text color</p>
+<p class="text-body">This is body text color</p>
+<a href="#"class="text-muted">This is muted text color</a>
+<a href="#"class="text-primary">This is primary text color</a>
+<a href="#"class="text-success">This is success text color</a>
+<a href="#"class="text-info">This is info text color</a>
+<a href="#"class="text-warning">This is warning text color</a>
+<a href="#"class="text-danger">This is danger text color</a>
+<a href="#"class="text-secondary">This is secondary text color</a>
+<a href="#"class="text-dark">This is dark text color</a>
+<a href="#"class="text-body">This is body text color</a>
+</div>
+</body>
+</home>
