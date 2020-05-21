@@ -1,0 +1,23 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="container bg-warning">
+<h1 class="display-1">Display 1</h1>
+<h1 class="display-2">Display 2</h1>
+<h1 class="display-3">Display 3</h1>
+<h1 class="display-4">Display 4</h1>
+<p class="display-1">Paragraph tag</p>
+<a href="#" class="display-2">Click here...!!!</a>
+<br>
+This is <mark>mark </mark>tag.
+<br>
+
+Press <kbd>ctrl + p</kbd> to print.<br>
+Press <kbd>ctrl + s</kbd> to save<br>
+Press <kbd>ctrl + s</kbd> to save as<br>
+Press <kbd>ctrl + n</kbd> to create new document<br>
+</body>
+</html>
