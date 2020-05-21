@@ -1,0 +1,13 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="jumbotron jumbotron-fluid text-center">
+<h1>(1)Jumbotron and(2)Jumnotron-fluid</h1>
+<h2>-Big gray box - Used to highlight some content</h2>
+</div>
+
+</body>
+</html>
