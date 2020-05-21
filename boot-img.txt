@@ -1,0 +1,18 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+<img src="baby.jpg" class="rounded" width="300" height="300">
+<img src="baby.jpg" class="rounded circle" width="300" height="300">
+<img src="baby.jpg" class="img-thumbnail" width="300" height="300">
+</div><br>
+<div class="container">
+<img src="baby.jpg" class="float-right" width="300" height="300">
+<img src="baby.jpg" class="float-left" width="300" height="300">
+<img src="baby.jpg" class="mx-auto d-block" width="300" height="300">
+</div>
+</body>
+</html>
