@@ -1,0 +1,47 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<table class="table text-center table-bordered table-hover table-striped">
+<thread class="thread dark">
+  <tr>
+       <th>NO</th>
+       <th>NUMBER</th>
+       <th>ADDRESS</th>
+  </tr>
+</thread>
+   <tr>
+       <th>1</th>
+       <th>RAHUL</th>
+       <th>GAYA</th>
+  </tr>
+  <tr>
+       <th>2</th>
+       <th>ROHIT</th>
+       <th>PATNA</th>
+  </tr>
+  <tr>
+       <th>3</th>
+       <th>ABHISHEK</th>
+       <th>NALANDA</th>
+  </tr>
+  <tr>
+       <th>4</th>
+       <th>NISHA</th>
+       <th>BUXAR</th>
+  </tr>
+  <tr>
+       <th>5</th>
+       <th>SHIVAM</th>
+       <th>SIWAN</th>
+  </tr>
+  <tr>
+       <th>6</th>
+       <th>ANKIT</th>
+       <th>SASARAM</th>
+  </tr>
+</table>
+</body>
+</html>
