@@ -1,0 +1,20 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<p>This is badge example<span class="badge badge-pill badge-primary">NEW</span></p>
+<p>This is badge example<span class="badge badge-pill badge-secondary">NEW</span></p>
+<p>This is badge example<span class="badge badge-pill badge-info">NEW</span></p>
+<p>This is badge example<span class="badge badge-pill badge-warning">NEW</span></p>
+<p>This is badge example<span class="badge badge-pill badge-light">NEW</span></p>
+<p>This is badge example<span class="badge badge-pill badge-dark">NEW</span></p>
+<p>This is badge example<span class="badge badge-pill badge-danger">NEW</span></p>
+<p>This is badge example<span class="badge badge-pill badge-success">NEW</span></p>
+
+<button type="button" class="btn btn-primary">
+Message...<span class="badge badge-pill badge-warning">7</span></p>
+</button>
+</body>
+</html>
