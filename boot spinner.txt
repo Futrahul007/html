@@ -1,0 +1,24 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+  <div class="spinner-border text-primary">
+   <b>Hello</b>
+  </div>
+  <div class="spinner-border text-primary spinner-border-sm">
+  </div>
+  <div class="spinner-grow text-primary">
+  </div>
+  <div class="spinner-grow text-primary spinner-grow-sm">
+  </div>
+
+    <button class="btn btn-primary">
+     <span class="spinner-border text-dark spinner-border-sm">
+  </spam>
+    </button>
+</div>
+</body>
+</html>
