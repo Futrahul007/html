@@ -1,0 +1,18 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+<ul class="list-group list-group-horizontal">
+<li class="list-group-item list-group-item-success">
+<a href="#">Computer</a>
+</li>
+<li class="list-group-item list-group-item-active">It</li>
+<li class="list-group-item list-group-item-warning">Civil</li>
+<li class="list-group-item list-group-item-dark">Mechanical</li>
+</ul>
+</div>
+</body>
+</html>
