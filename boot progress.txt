@@ -1,0 +1,23 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+  <div class="progress" style="height:30px">
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" style="width:30%"; height:30px">
+    30%
+  </div>
+  <div class="progress" style="height:30px">
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" style="width:50%"; height:30px">
+    50%
+  </div>
+  <div class="progress" style="height:30px">
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width:20%"; height:30px">
+   20%
+  </div>
+</div>
+</div>
+</body>
+</html>
