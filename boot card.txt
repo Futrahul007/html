@@ -1,0 +1,23 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<center><h1>card</h1></center> <br>
+<div class="container">
+  <div class="card bg-success text-white" style="width:400px;">
+    <div class="card-header"> Header</div>
+    <img class="card-mg-top" src="baby.jpg" alt="Error">
+    <div class="card-body">
+         <p class="card-title">Card Title</p>
+         <p class="card-text">Card Text</p>
+         <a href="#"class="card-link">Card Link</a>
+     </div>
+     </div class="card-footer">
+        <p>Hello World</p>
+        <button class="btn btn-primary stretched-link">Submit</button>
+    </div>
+   </div>
+</body>
+</html>
