@@ -1,0 +1,49 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<center><h1>card p-3</h1></center> <br>
+<div class="container">
+<div class="card-columns">
+<div class="card" style="width:200px">
+<div class="card-header">Header</div>
+<img src="baby.jpg" class="card-img-top">
+<div class="card-body">Body</div>
+<div class="card-footer">Footer</div>
+</div>
+<div class="card" style="width:200px">
+<div class="card-header">Header</div>
+<img src="admin.jpg" class="card-img-top">
+<div class="card-body">Body</div>
+<div class="card-footer">Footer</div>
+</div>
+<div class="card" style="width:200px">
+<div class="card-header">Header</div>
+<img src="medicine.jpg" class="card-img-top">
+<div class="card-body">Body</div>
+<div class="card-footer">Footer</div>
+</div>
+<div class="card" style="width:200px">
+<div class="card-header">Header</div>
+<img src="baby.jpg" class="card-img-top">
+<div class="card-body">Body</div>
+<div class="card-footer">Footer</div>
+</div>
+<div class="card" style="width:200px">
+<div class="card-header">Header</div>
+<img src="admin.jpg" class="card-img-top">
+<div class="card-body">Body</div>
+<div class="card-footer">Footer</div>
+</div>
+<div class="card" style="width:200px">
+<div class="card-header">Header</div>
+<img src="medicine.jpg" class="card-img-top">
+<div class="card-body">Body</div>
+<div class="card-footer">Footer</div>
+</div>
+</div>
+</div>
+</body>
+</html>
