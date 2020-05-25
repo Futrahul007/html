@@ -1,0 +1,21 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="D:\resume\bootstrap-4.5.0-dist\css/bootstrap.min.css">
+</head>
+<body>
+<center><h1>Collapse</h1></center> <br>
+<div class="container">
+<button class="btn btn-primary" data-toggle="collapse" data-target="#d1">
+what is html?
+</button>
+<div id="d1" class="collapse"Hyper Text Markup Language....</div> <br><br>
+
+
+<button class="btn btn-primary" data-toggle="collapse" data-target="#d1">
+what is html?
+</button>
+<div id="d1" class="collapse"Hyper Text Markup Language....</div>
+</div>
+</body>
+</html>
